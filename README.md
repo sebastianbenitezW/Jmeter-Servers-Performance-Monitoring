@@ -25,7 +25,6 @@ Users:  **1 (Simulación completa de interacción de usuario)**
 Endpoint: **https://asecuritysite.com/index** consume demasiados recursos, como se puede observar en la gráfica general y específicamente en la gráfica Network_1.png, tambien consume mucho disco, por lo que concluimos que está mal optimizado. Se reciben demasiados bytes, por lo que la carga es lenta.
 
 <img width="1280" alt="jp@gc - PerfMon Metrics Collector" src="https://github.com/user-attachments/assets/97f0404c-ad25-4b75-a9f4-49ee482442f7" />  
-![Metricas_1](https://github.com/user-attachments/assets/8f74f14c-b10f-40e5-88be-f04205b2fb45)
 
 Endpoints analizados:  
 1-https://asecuritysite.com/  
