@@ -12,6 +12,8 @@ Endpoint: https://asecuritysite.com/index consume demasiados recursos, como se p
 y específicamente en la gráfica Network_1.png, y mucho disco,por lo que concluimos que está mal optimizado. 
 Se reciben demasiados bytes, por lo que la carga es lenta.
 
+<img width="1280" alt="jp@gc - PerfMon Metrics Collector" src="https://github.com/user-attachments/assets/97f0404c-ad25-4b75-a9f4-49ee482442f7" />
+
 Endpoints analizados:  
 1-https://asecuritysite.com/  
 2-https://asecuritysite.com/index  
