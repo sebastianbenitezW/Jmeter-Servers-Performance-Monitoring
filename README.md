@@ -1,4 +1,5 @@
-Pruebas de rendimiento al sitio web asecuritysite.com midiendo metricas del servidor como CPU, discos, red y memoria en tiempo real.
+Pruebas de rendimiento al sitio web asecuritysite.com con el plugin "Servers Performance Monitoring"  
+midiendo metricas del servidor como CPU, discos, red y memoria en tiempo real.
 
 Sitio Web: **asecuritysite.com**  
 Internet speed: **25 Mbps**  
