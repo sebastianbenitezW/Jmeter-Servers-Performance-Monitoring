@@ -9,16 +9,16 @@ Conexion Type: **Conexión Ethernet**
 Operating system: **Qubes OS: Fedora Template**  
 Users:  **1 (Simulación completa de interacción de usuario)**  
 
-**Network:**
+**Network:**  
 ![Network_1](https://github.com/user-attachments/assets/79ef18b8-0c1a-4de9-aff1-3abe10edd097)
 
-**CPU:**
+**CPU:**  
 ![CPU_1](https://github.com/user-attachments/assets/ca0ed8df-e4b3-423d-9eb4-e6a92bf51f73)
 
-**Memory:**
+**Memory:**  
 ![Memory_1](https://github.com/user-attachments/assets/57b62139-c598-41e0-8523-b49315af0ddf)
 
-**Disks:**
+**Disks:**  
 ![Disks_1](https://github.com/user-attachments/assets/70388ad8-9cce-48f8-9ae0-09285fcf941a)
 
 **RESULTADOS:**
